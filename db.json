@@ -1,0 +1,138 @@
+{
+    "courses": [
+        {
+          "createdAt": "2025-03-28T19:03:26.338Z",
+          "title": "Machine Learning with Python",
+          "description": "Ventus tener demens cerno textor defendo tenuis.",
+          "id": "1"
+        },
+        {
+          "createdAt": "2025-03-29T14:25:08.976Z",
+          "title": "ReactJS Development Bootcamp",
+          "description": "Vestigium odit cresco terreo.",
+          "id": "2"
+        },
+        {
+          "createdAt": "2025-03-29T01:16:21.897Z",
+          "title": "Web Development with Django",
+          "description": "Volutabrum sollers placeat porro sodalitas veniam dolorem aqua.",
+          "id": "3"
+        }
+      ],
+      "sessions": [
+        {
+          "createdAt": "2025-03-28T19:03:26.338Z",
+          "title": "Machine Learning with Python - Session 1",
+          "description": "Ventus tener demens cerno textor defendo tenuis.",
+          "courseId": "1",
+          "id": "1"
+        },
+        {
+          "createdAt": "2025-03-28T19:03:26.338Z",
+          "title": "Machine Learning with Python - Session 2",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "courseId": "1",
+          "id": "2"
+        },
+        {
+          "createdAt": "2025-03-29T14:25:08.976Z",
+          "title": "ReactJS Development Bootcamp - Session 1",
+          "description": "Vivamus eu purus quis lorem lobortis consectetur.",
+          "courseId": "2",
+          "id": "3"
+        },
+        {
+          "createdAt": "2025-03-29T14:25:08.976Z",
+          "title": "ReactJS Development Bootcamp - Session 2",
+          "description": "Mauris eget sapien ultrices, dignissim enim et, maximus purus.",
+          "courseId": "2",
+          "id": "4"
+        },
+        {
+          "createdAt": "2025-03-29T14:25:08.976Z",
+          "title": "ReactJS Development Bootcamp - Session 3",
+          "description": "Vestigium odit cresco terreo.",
+          "courseId": "2",
+          "id": "5"
+        },
+        {
+          "createdAt": "2025-03-29T01:16:21.897Z",
+          "title": "Web Development with Django - Session 1",
+          "description": "Volutabrum sollers placeat porro sodalitas veniam dolorem aqua.",
+          "courseId": "3",
+          "id": "6"
+        },
+        {
+          "createdAt": "2025-03-29T01:16:21.897Z",
+          "title": "Web Development with Django - Session 2",
+          "description": "In hac habitasse platea dictumst. In quis dapibus odio, non efficitur metus.",
+          "courseId": "3",
+          "id": "7"
+        }
+      ],
+      "study_materials":[
+        {
+          "createdAt": "2025-03-29T17:29:23.505Z",
+          "session_id": "1",
+          "type": "pre-reading",
+          "file": "Doloremque volva voluptatum solitudo. Tristis crudelis consuasor spectaculum defaeco cubo arcesso alo tabula soleo. Video terebro ars.\nAnte bis deleo aer altus casso asperiores vitae rerum angustus. Asper considero vilicus temptatio virtus tenus ullam deficio thalassinus dens. Deludo aestivus acerbitas benevolentia terreo canto quam comprehendo.\nCilicium bos ascit aeger volutabrum arguo. Ver amor curto eius id paulatim cogito arbor corroboro. Theologus velum credo quas bibo civitas spiculum.",
+          "id": "1"
+        },
+        {
+          "createdAt": "2025-03-29T11:44:10.399Z",
+          "session_id": "2",
+          "type": "pre-reading",
+          "file": "Ante voluptate volup pecco stabilis. Averto dedecor convoco antea apostolus ab. Coniecto consequuntur placeat succedo venio utique.\nThesaurus optio pax vulnus odio absque sit sophismata solus. Expedita tenax cornu terga carcer votum cognatus. Dolor sophismata uterque delego.\nAntea via desolo complectus incidunt considero solum veritatis. Voluptate amissio dolorem terminatio uterque sursum cultura. Similique officia cohaero coadunatio.",
+          "id": "2"
+        },
+        {
+          "createdAt": "2025-03-29T14:31:49.781Z",
+          "session_id": "3",
+          "type": "pre-reading",
+          "file": "Condico trepide quo dapifer volva accusamus valde. Suscipio undique ara comptus ab ustilo textus tergum. Ulterius curo ager.\nVorax certe villa tubineus solutio. Aestas animi libero. Strues creber cur quidem adicio amo antea virgo deleniti cresco.\nDeorsum damno vespillo verto adiuvo talus tepesco. Adeptio arma temperantia talis aestivus aegrus aliquam torrens. Defleo aegrotatio texo vilicus supplanto.",
+          "id": "3"
+        },
+        {
+          "createdAt": "2025-03-29T14:31:49.781Z",
+          "session_id": "3",
+          "type": "assignment",
+          "file": "Condico trepide ____ dapifer volva accusamus valde. Suscipio undique ara _______ ab ustilo textus tergum. Ulterius curo ager.\nVorax certe villa tubineus solutio. Aestas animi libero. Strues creber cur quidem adicio amo antea virgo deleniti cresco.\nDeorsum damno vespillo verto adiuvo talus tepesco. Adeptio arma temperantia talis aestivus aegrus aliquam torrens. Defleo aegrotatio texo vilicus supplanto.",
+          "id": "8"
+        },
+        {
+          "createdAt": "2025-03-29T13:43:14.343Z",
+          "session_id": "4",
+          "type": "pre-reading",
+          "file": "Thorax curo succurro adnuo. Comitatus suppono delinquo tego virga creator aliqua. Textilis altus complectus adopto laboriosam capio amaritudo sum socius.\nColligo bardus reiciendis atrox velum comitatus arbustum concedo. Velociter blandior vulgivagus totidem demergo nesciunt admoveo delicate anser. Possimus stips explicabo velut.\nConitor conturbo eveniet depono apostolus vindico debilito taceo collum iste. Tracto tamdiu absens decet. Voluptates tepidus universe territo synagoga sit.",
+          "id": "4"
+        },
+        {
+          "createdAt": "2025-03-29T17:43:27.643Z",
+          "session_id": "5",
+          "type": "pre-reading",
+          "file": "Sursum tempus adfectus neque atrox cohaero. Aspicio venustas vinitor culpo atavus laboriosam thema tamisium patior absorbeo. Confero arbustum patrocinor attollo atqui.\nAdinventitias cubitum abundans cupressus. Abscido natus autem ex. Curatio tutis acies.\nTamisium fugiat sit. Acsi vae comminor sollers delinquo textilis aequitas. Video volaticus tot vix tres defendo combibo suffragium arcesso.",
+          "id": "5"
+        },
+        {
+          "createdAt": "2025-03-29T09:44:32.150Z",
+          "session_id": "6",
+          "type": "pre-reading",
+          "file": "Angulus vae ducimus ait sophismata agnosco. Ustilo adeptio eius deludo cogito audio truculenter torqueo aedificium. Id surgo crudelis vergo tabernus sunt caelestis perspiciatis cariosus.\nAdmoneo cauda patior advoco. Celebrer omnis adinventitias tam conscendo rerum. Tripudio cometes adduco catena confugo vulnus eaque.\nTemptatio vigor turba caterva autus turba quod demens. Arcus subvenio veritatis capio supra turpis utrimque sublime basium. Admoneo conspergo delectatio officiis casso suasoria cubo veritas.",
+          "id": "6"
+        },
+        {
+          "createdAt": "2025-03-29T12:54:30.053Z",
+          "session_id": "7",
+          "type": "pre-reading",
+          "file": "Demum ars audeo clibanus vicissitudo. Umerus virga claustrum maxime laboriosam abstergo adeptio. Ocer barba templum custodia aggero usus alioqui tenax decerno.\nTerrito venustas aggero. Capitulus ars thymum ea dedico aspicio. At dignissimos apto.\nCicuta suggero curriculum. Temporibus conor titulus asporto adulescens. Conduco deserunt certus confugo pectus dens assentator veniam cumque.",
+          "id": "7"
+        },
+        {
+          "createdAt": "2025-03-29T12:54:30.053Z",
+          "session_id": "7",
+          "type": "assignment",
+          "file": "Demum ars audeo _________ vicissitudo. Umerus virga claustrum maxime __________ abstergo adeptio. Ocer barba templum custodia aggero usus alioqui tenax decerno.\nTerrito venustas aggero. Capitulus ars thymum ea dedico aspicio. At dignissimos apto.\nCicuta suggero curriculum. Temporibus conor titulus asporto adulescens. Conduco deserunt certus confugo pectus dens assentator veniam cumque.",
+          "id": "9"
+        }
+      ]
+}

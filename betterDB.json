@@ -1,0 +1,301 @@
+{
+    "students": [
+        {
+          "createdAt": "2025-03-28T23:45:28.613Z",
+          "name": "Kayla Gutkowski-Von",
+          "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/31.jpg",
+          "bio": "Maiores vinum conitor sequi placeat viriliter sperno.\nDefero subiungo totus cilicium benevolentia defleo ipsum templum taceo contego.\nAmo illo asporto viriliter veniam cursus.",
+          "phone": "543-408-7990",
+          "email": "Lera61@yahoo.com",
+          "std_id": "1"
+        },
+        {
+          "createdAt": "2025-03-28T21:55:56.320Z",
+          "name": "Ms. Henrietta Quitzon",
+          "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/3.jpg",
+          "bio": "Arcesso aduro vinculum iste bibo.",
+          "phone": "(233) 350-6814 x7612",
+          "email": "Hailie.Zieme@yahoo.com",
+          "std_id": "2"
+        },
+        {
+          "createdAt": "2025-03-29T00:20:48.348Z",
+          "name": "Sean Schroeder",
+          "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/27.jpg",
+          "bio": "Bellicus corrupti thesaurus creta doloremque vere cerno.",
+          "phone": "(395) 592-5590 x549",
+          "email": "Priscilla.Franecki@gmail.com",
+          "std_id": "3"
+        },
+        {
+          "createdAt": "2025-03-29T01:01:19.099Z",
+          "name": "Mathew Lang",
+          "avatar": "https://avatars.githubusercontent.com/u/28682855",
+          "bio": "Alter conicio cura caritas.\nIure bene tonsor desparatus beatus viduo.\nArchitecto videlicet apparatus crastinus molestias.\nTextilis vorax spoliatio repellendus officia comparo caterva curatio similique.",
+          "phone": "(664) 397-8448 x989",
+          "email": "Kenya_Leuschke85@yahoo.com",
+          "std_id": "4"
+        },
+        {
+          "createdAt": "2025-03-28T22:16:05.086Z",
+          "name": "Ms. Anne Lynch",
+          "avatar": "https://avatars.githubusercontent.com/u/50885206",
+          "bio": "Absens numquam sordeo pecco.\nComburo porro vulticulus arcesso vilitas admoveo.\nCras auctus ago accusator.\nTextor cunabula conqueror talis vesica acceptus teneo usitas demitto valde.\nAeneus apto possimus.",
+          "phone": "943.698.2181",
+          "email": "Demetris54@hotmail.com",
+          "std_id": "5"
+        },
+        {
+          "createdAt": "2025-03-29T14:41:53.842Z",
+          "name": "Dr. Morris Kuphal",
+          "avatar": "https://avatars.githubusercontent.com/u/59347560",
+          "bio": "Centum adimpleo tabernus fugiat eligendi.\nNulla complectus comprehendo cunctatio vinitor subnecto suffoco.\nPossimus accusantium tam vallum timor aedificium conforto aiunt.\nDefluo ater deorsum solvo assumenda tergiversatio turba.\nCapto decet universe verbum.",
+          "phone": "984.324.1901 x408",
+          "email": "Noe.Dibbert73@gmail.com",
+          "std_id": "6"
+        },
+        {
+          "createdAt": "2025-03-28T21:06:53.698Z",
+          "name": "Judith Hartmann",
+          "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/39.jpg",
+          "bio": "Teneo ullus vis vomito bestia aggredior.",
+          "phone": "(585) 410-8334 x8389",
+          "email": "Lelah.Medhurst@hotmail.com",
+          "std_id": "7"
+        },
+        {
+          "createdAt": "2025-03-29T16:54:13.491Z",
+          "name": "Juan Harvey",
+          "avatar": "https://avatars.githubusercontent.com/u/14157095",
+          "bio": "Strenuus aufero confido fugiat.",
+          "phone": "954.816.5160 x1923",
+          "email": "German11@gmail.com",
+          "std_id": "8"
+        },
+        {
+          "createdAt": "2025-03-29T13:50:06.789Z",
+          "name": "Dr. Alvin Parisian",
+          "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/69.jpg",
+          "bio": "Caelestis corroboro stips tempore tibi cogo deprecator sursum.",
+          "phone": "721-393-7714 x086",
+          "email": "Kristofer60@hotmail.com",
+          "std_id": "9"
+        },
+        {
+          "createdAt": "2025-03-29T05:58:13.960Z",
+          "name": "Rochelle Beahan",
+          "avatar": "https://avatars.githubusercontent.com/u/40071477",
+          "bio": "Ocer demoror caelum bos vox coniecto venustas studio.\nCaute damnatio aperte molestias aperiam advenio balbus decerno.\nVitiosus censura somniculosus communis amitto.\nSufficio demonstro ustilo auctus verecundia circumvenio acsi alter.\nVolaticus crustulum suffragium accedo cursim ab abundans administratio iure.",
+          "phone": "238.323.8292 x62178",
+          "email": "Kacie.Batz56@hotmail.com",
+          "std_id": "10"
+        },
+        {
+          "createdAt": "2025-03-28T20:36:24.501Z",
+          "name": "Wilbert Mills",
+          "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/64.jpg",
+          "bio": "Custodia ter cunae vitiosus adnuo.\nAegrotatio bellicus voluntarius caput ipsum amicitia ater pauper.\nSuscipio strues comminor viridis creber velum odit adficio.",
+          "phone": "1-777-736-9158 x9989",
+          "email": "Jasper.Zulauf@gmail.com",
+          "std_id": "11"
+        },
+        {
+          "createdAt": "2025-03-29T05:21:02.695Z",
+          "name": "Kristine Brakus",
+          "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/28.jpg",
+          "bio": "Convoco cursim viscus sursum.",
+          "phone": "(288) 535-3568",
+          "email": "Jacey14@yahoo.com",
+          "std_id": "12"
+        }
+      ],
+      "enrollments":[
+        {
+          "createdAt": "2025-03-29T01:38:57.694Z",
+          "std_id": "5",
+          "course_id": "course_id 1",
+          "std_rating": 83,
+          "std_testimonial": "std_testimonial 1",
+          "coupon_id": "coupon_id 1",
+          "payment_status": "payment_status 1",
+          "id": "1"
+        },
+        {
+          "createdAt": "2025-03-28T19:25:49.565Z",
+          "std_id": "4",
+          "course_id": "course_id 2",
+          "std_rating": 100,
+          "std_testimonial": "std_testimonial 2",
+          "coupon_id": "coupon_id 2",
+          "payment_status": "payment_status 2",
+          "id": "2"
+        },
+        {
+          "createdAt": "2025-03-28T22:59:00.807Z",
+          "std_id": "3",
+          "course_id": "course_id 3",
+          "std_rating": 60,
+          "std_testimonial": "std_testimonial 3",
+          "coupon_id": "coupon_id 3",
+          "payment_status": "payment_status 3",
+          "id": "3"
+        },
+        {
+          "createdAt": "2025-03-29T09:39:33.604Z",
+          "std_id": "2",
+          "course_id": "course_id 4",
+          "std_rating": 78,
+          "std_testimonial": "std_testimonial 4",
+          "coupon_id": null,
+          "payment_status": "completed",
+          "id": "4"
+        },
+        {
+          "createdAt": "2025-03-29T08:29:59.765Z",
+          "std_id": "1",
+          "course_id": "course_id 5",
+          "std_rating": 48,
+          "std_testimonial": "std_testimonial 5",
+          "coupon_id": "coupon_id 5",
+          "payment_status": "payment_status 5",
+          "id": "5"
+        },
+        {
+          "createdAt": "2025-03-29T06:12:24.756Z",
+          "std_id": "1",
+          "course_id": "course_id 6",
+          "std_rating": 68,
+          "std_testimonial": "std_testimonial 6",
+          "coupon_id": "coupon_id 6",
+          "payment_status": "payment_status 6",
+          "id": "6"
+        },
+        {
+          "createdAt": "2025-03-29T10:06:38.813Z",
+          "std_id": "2",
+          "course_id": "course_id 7",
+          "std_rating": 48,
+          "std_testimonial": "std_testimonial 7",
+          "coupon_id": "coupon_id 7",
+          "payment_status": "payment_status 7",
+          "id": "7"
+        },
+        {
+          "createdAt": "2025-03-28T21:58:37.802Z",
+          "std_id": "3",
+          "course_id": "course_id 8",
+          "std_rating": 7,
+          "std_testimonial": "std_testimonial 8",
+          "coupon_id": "coupon_id 8",
+          "payment_status": "payment_status 8",
+          "id": "8"
+        },
+        {
+          "createdAt": "2025-03-29T03:58:17.625Z",
+          "std_id": "std_id 9",
+          "course_id": "course_id 9",
+          "std_rating": 5,
+          "std_testimonial": "std_testimonial 9",
+          "coupon_id": "coupon_id 9",
+          "payment_status": "payment_status 9",
+          "id": "9"
+        }
+      ],
+      "courses":[
+        {
+          "createdAt": "2025-03-29T13:34:40.762Z",
+          "title": "Fullstack Python Development Bootcamp",
+          "description": "Subvenio theologus vorago varietas velut adnuo turba maiores caste.",
+          "owner_id": "10",
+          "owner_type": "trainer",
+          "duration": "45 days",
+          "fees": 1800,
+          "cover_img_url": "https://loremflickr.com/1754/2388?lock=3103811921475972",
+          "time_commitment": "2 hours per day",
+          "level": "intermediate",
+          "tags": ["job", "python", "fullstack"],
+          "course_type": "technical",
+          "seats_available": 26,
+          "start_date": "2025-03-23T13:34:40.762Z",
+          "end_date": "2025-04-09T13:34:40.762Z",
+          "status": "live",
+          "id": "1"
+        },
+        {
+          "createdAt": "2025-03-28T23:43:06.191Z",
+          "title": "JavaScript for Beginners",
+          "description": "Dedecor sufficio debeo timor timidus.\nAbundans adipisci supplanto.\nCoepi volva defero torqueo sumptus congregatio alienus victoria amaritudo trado.\nConventus non catena cerno subiungo creo nulla curtus.",
+          "owner_id": "12",
+          "owner_type": "institute",
+          "duration": "15 days",
+          "fees": 999,
+          "cover_img_url": "https://picsum.photos/seed/aTVVYfLKc/370/918",
+          "time_commitment": "1 hour per day",
+          "level": "beginners",
+          "tags": ["beginners", "javascript", "frontend"],
+          "course_type": "technical",
+          "seats_available": 25,
+          "start_date": "2025-04-12T13:34:40.762Z",
+          "end_date": "2025-04-30T13:34:40.762Z",
+          "status": "live",
+          "id": "2"
+        },
+        {
+          "createdAt": "2025-03-29T13:19:31.090Z",
+          "title": "Fullstack Java Development Bootcamp",
+          "description": "Demonstro vomer tego conitor totam capto colligo suppono curso.",
+          "owner_id": "12",
+          "owner_type": "institute",
+          "duration": "30 days",
+          "fees": 8999,
+          "cover_img_url": "https://picsum.photos/seed/JqmvWar1HG/3544/3168",
+          "time_commitment": "1.5 hours per day",
+          "level": "advanced",
+          "tags": ["java", "bootcamp", "backend"],
+          "course_type": "technical",
+          "seats_available": 32,
+          "start_date": "2025-05-23T13:34:40.762Z",
+          "end_date": "2025-07-06T13:34:40.762Z",
+          "status": "live",
+          "id": "3"
+        },
+        {
+          "createdAt": "2025-03-29T03:50:38.015Z",
+          "title": "ReactJS Development Bootcamp",
+          "description": "Creo creber denique brevis ustulo sum.\nDenuo tondeo trepide ambulo civitas beatus coepi.\nVenia delectus amita arcesso astrum umerus adfero alias audacia in.\nDerideo beatus depromo caelestis succedo accommodo.",
+          "owner_id": "10",
+          "owner_type": "trainer",
+          "duration": "30 days",
+          "fees": 3499,
+          "cover_img_url": "https://loremflickr.com/837/81?lock=5001443969948711",
+          "time_commitment": "1 hour per day",
+          "level": "advanced",
+          "tags": ["react", "bootcamp", "frontend"],
+          "course_type": "technical",
+          "seats_available": 67,
+          "start_date": "2025-04-13T13:34:40.762Z",
+          "end_date": "2025-05-19T13:34:40.762Z",
+          "status": "live",
+          "id": "4"
+        },
+        {
+          "createdAt": "2025-03-29T15:01:07.346Z",
+          "title": "Machine Learning with Python",
+          "description": "Compello nobis auctor acidus.\nSpargo commodi sperno desolo degenero conscendo arx magni.\nCeno subvenio cornu vinum.\nCunctatio vomito temeritas carus vulpes vulpes uredo depopulo debeo cognomen.",
+          "owner_id": "12",
+          "owner_type": "institute",
+          "duration": "60 days",
+          "fees": 4199,
+          "cover_img_url": "https://picsum.photos/seed/8JWm50H6c/1126/391",
+          "time_commitment": "3 hours per day",
+          "level": "intermediate",
+          "tags": ["ai", "python", "ml"],
+          "course_type": "technical",
+          "seats_available": 13,
+          "start_date": 1743271673,
+          "end_date": 1743271673,
+          "status": "live",
+          "id": "5"
+        }
+      ]
+}
