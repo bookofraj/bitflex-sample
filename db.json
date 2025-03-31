@@ -3,43 +3,55 @@
       {
         "createdAt": "2025-03-30T21:03:40.288Z",
         "name": "Bill Kshlerin",
+        "email": "user1@email.com",
+        "password": "password",
         "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/13.jpg",
-        "courses": [],
+        "courses": [1,2,3],
         "id": "1"
       },
       {
         "createdAt": "2025-03-31T05:14:01.749Z",
         "name": "Allan O'Hara",
+        "email": "user2@email.com",
+        "password": "password",
         "avatar": "https://avatars.githubusercontent.com/u/73869114",
-        "courses": [],
+        "courses": [3,1],
         "id": "2"
       },
       {
         "createdAt": "2025-03-31T06:15:06.696Z",
         "name": "Mrs. Pauline Graham",
+        "email": "user3@email.com",
+        "password": "password",
         "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/97.jpg",
-        "courses": [],
+        "courses": [2],
         "id": "3"
       },
       {
         "createdAt": "2025-03-31T02:45:10.450Z",
         "name": "Mr. Elias Torphy-Nader",
+        "email": "user4@email.com",
+        "password": "password",
         "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/65.jpg",
-        "courses": [],
+        "courses": [2,3],
         "id": "4"
       },
       {
         "createdAt": "2025-03-30T20:07:56.355Z",
         "name": "Allen Larkin",
+        "email": "user5@email.com",
+        "password": "password",
         "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/41.jpg",
-        "courses": [],
+        "courses": [1,2],
         "id": "5"
       },
       {
         "createdAt": "2025-03-30T22:52:13.142Z",
         "name": "Steve Hintz",
+        "email": "user6@email.com",
+        "password": "password",
         "avatar": "https://avatars.githubusercontent.com/u/22234019",
-        "courses": [],
+        "courses": [2],
         "id": "6"
       }
     ],
